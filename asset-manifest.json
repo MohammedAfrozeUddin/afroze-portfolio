@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/afroze-portfolio/static/css/main.e0ea2960.css",
+    "main.js": "/afroze-portfolio/static/js/main.1ad0307c.js",
+    "static/js/453.b05d8aa5.chunk.js": "/afroze-portfolio/static/js/453.b05d8aa5.chunk.js",
+    "static/media/mock08.png": "/afroze-portfolio/static/media/mock08.0ba1a56b1bd0c9adddf3.png",
+    "static/media/mock10.png": "/afroze-portfolio/static/media/mock10.389ec4f7f895fb80db6c.png",
+    "static/media/mock09.png": "/afroze-portfolio/static/media/mock09.31e17db4a4815491b617.png",
+    "static/media/mock07.png": "/afroze-portfolio/static/media/mock07.a025676745d2b2878034.png",
+    "static/media/mock05.png": "/afroze-portfolio/static/media/mock05.2f1ee1dc85f1ca707231.png",
+    "static/media/bg-light.png": "/afroze-portfolio/static/media/bg-light.bac0efb485244a522981.png",
+    "static/media/problem-solving.jpg": "/afroze-portfolio/static/media/problem-solving.51bd3412be50c2d71c89.jpg",
+    "static/media/profile01.jpg": "/afroze-portfolio/static/media/profile01.3864d6952a8a8f834073.jpg",
+    "static/media/java.jpg": "/afroze-portfolio/static/media/java.4019de050697fdea97ce.jpg",
+    "static/media/bg-dark.png": "/afroze-portfolio/static/media/bg-dark.f420c6b8458af72de935.png",
+    "static/media/profile.jpg": "/afroze-portfolio/static/media/profile.fc7cc85a56d73a045169.jpg",
+    "static/media/mock06.png": "/afroze-portfolio/static/media/mock06.f593050a31cfd6de2e11.png",
+    "static/media/sparks-foundation.jpg": "/afroze-portfolio/static/media/sparks-foundation.f6fb01cdaf559eeddcc7.jpg",
+    "static/media/stock-prediction.jpg": "/afroze-portfolio/static/media/stock-prediction.5ca70b546cf92d4493ae.jpg",
+    "static/media/JP-morgan.jpg": "/afroze-portfolio/static/media/JP-morgan.70ae3835f58b590d63be.jpg",
+    "static/media/deloitte.jpg": "/afroze-portfolio/static/media/deloitte.53b0883342e928fbf1ae.jpg",
+    "index.html": "/afroze-portfolio/index.html",
+    "static/media/hackerrank.svg": "/afroze-portfolio/static/media/hackerrank.fa2eda081def13c6bdee704be579eb52.svg",
+    "main.e0ea2960.css.map": "/afroze-portfolio/static/css/main.e0ea2960.css.map",
+    "main.1ad0307c.js.map": "/afroze-portfolio/static/js/main.1ad0307c.js.map",
+    "453.b05d8aa5.chunk.js.map": "/afroze-portfolio/static/js/453.b05d8aa5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e0ea2960.css",
+    "static/js/main.1ad0307c.js"
+  ]
+}
