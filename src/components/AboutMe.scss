@@ -1,0 +1,17 @@
+.about-section {
+  padding: 5% 10%;
+  background-color: var(--background);
+  color: var(--text-color);
+  text-align: left;
+
+  .section-title {
+    font-size: 2.5em;
+    margin-bottom: 20px;
+  }
+
+  .about-text {
+    font-size: 1.1em;
+    line-height: 1.7;
+    max-width: 800px;
+  }
+}
