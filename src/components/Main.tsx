@@ -2,8 +2,8 @@ import React from "react";
 import GitHubIcon from '@mui/icons-material/GitHub';
 import LinkedInIcon from '@mui/icons-material/LinkedIn';
 import '../assets/styles/Main.scss';
-import avatarLight from '../assets/profile_new.jpg';
-import avatarDark from '../assets/profile01_new.jpg';
+import avatarLight from '../assets/my_profile01.jpg';
+import avatarDark from '../assets/my_profile02.jpg';
 
 type MainProps = {
   theme: 'light' | 'dark';
